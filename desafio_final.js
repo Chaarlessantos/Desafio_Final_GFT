@@ -1,4 +1,4 @@
-
+// amei toda a experiência, gostaria muito de ir para a proxima etapa, necessito de uma oportunidade e se eu tiver vou me dedicar muito. sinto que agora vai !
 class Heroi {
     constructor(nome, idade, tipo) {
       this.nome = nome; 
